@@ -1,7 +1,7 @@
 # Introduction
 align protein pdb structures use pymol.  
 # How to install
-Install pymol by [conda](https://pymol.org/conda/) and source activate the pymol environment.  
+Install pymol by [conda](https://pymol.org/conda/) and activate the pymol environment.  
 ```conda install -c conda-forge -c schrodinger pymol-bundle```  
 # How to use
 1. Put the script and your structure pdb files to the same folder.  
