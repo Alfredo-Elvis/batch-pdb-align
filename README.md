@@ -19,11 +19,11 @@ RMSD指被保存在results.txt文件中。
 # 联系我
 开发这个脚本是为了加快我自己的工作，我把它放在这里是希望有更多的人愿意尝试使用它。
 如果你有任何问题，请随时给我写电子邮件(zhouyq@shanghaitech.edu.cn)，但我不能保证我会解决你的问题。
-  
-  
-  
+    
+    
+    
 # Introduction
-align protein pdb structures use pymol.  
+align protein pdb structures use pymol and return the RMSD value.  
 # How to install
 Install pymol by [conda](https://pymol.org/conda/) and activate the pymol environment.  
 ```conda create --name pymol```  
@@ -39,7 +39,7 @@ Install pymol by [conda](https://pymol.org/conda/) and activate the pymol enviro
 &ensp;&ensp;**ppns** means the cpus you want to use to align.  
 # Results
 The final structure will be stored in the folder "**./align**" with the name of "{prefix}x_align.pdb  
-The rmsd will be stored in **results.txt** when align finished.  
+The RMSD will be stored in **results.txt** when align finished.  
 # Contact me
 This script was developed to speed up my own work, and I'm putting it here in the hope that more people will want to try using it.  
 Feel free to write me an email (zhouyq@shanghaitech.edu.cn) if you have any question, but I don't guarantee that I'll solve your problem.
