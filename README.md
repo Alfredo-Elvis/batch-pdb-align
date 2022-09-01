@@ -1,5 +1,5 @@
 # 介绍  
-使用pymol进行大量蛋白结构比对并返回rmsd值。  
+使用pymol进行大量蛋白结构比对并返回rmsd值。(pdb 文件。)  
 # 如何安装  
 通过[conda](https://pymol.org/conda/)安装pymol并激活pymol环境  
 ```conda create --name pymol```  
@@ -23,7 +23,7 @@ RMSD指被保存在results.txt文件中。
     &ensp;&ensp;
     &ensp;&ensp;
 # Introduction
-align protein pdb structures use pymol and return the RMSD value.  
+Align protein structures use pymol and return the RMSD value.(pdb files just.)  
 # How to install
 Install pymol by [conda](https://pymol.org/conda/) and activate the pymol environment.  
 ```conda create --name pymol```  
