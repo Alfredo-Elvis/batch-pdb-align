@@ -17,11 +17,11 @@
 比对结果以{前缀_align.pdb}的名字存储在“**./align**”文件夹中。
 RMSD指被保存在results.txt文件中。
 # 联系我
-开发这个脚本是为了加快我自己的工作，我把它放在这里是希望有更多的人愿意尝试使用它。
-如果你有任何问题，请随时给我写电子邮件(zhouyq@shanghaitech.edu.cn)，但我不能保证我会解决你的问题。
-    &ensp;&ensp;
-    &ensp;&ensp;
-    &ensp;&ensp;
+开发这个脚本是为了加快我自己的工作，我把它放在这里是希望有更多的人愿意尝试使用它。  
+如果你有任何问题，请随时给我写电子邮件(zhouyq@shanghaitech.edu.cn)，但我不能保证我会解决你的问题。  
+    &ensp;&ensp;  
+    &ensp;&ensp;  
+    &ensp;&ensp;  
 # Introduction
 Align protein structures use pymol and return the RMSD value.(pdb files just.)  
 # How to install
