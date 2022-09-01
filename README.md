@@ -14,7 +14,7 @@
 &ensp;&ensp;**prefix** 指pdb文件的前缀，例如conf。  
 &ensp;&ensp;**ppns** 指比对结构所用核数。  
 # 结果
-比对结果以{前缀_align.pdb}的名字存储在“**./align**”文件夹中。
+比对结果以{**前缀_align.pdb**}的名字存储在“**./align**”文件夹中。
 RMSD指被保存在results.txt文件中。
 # 联系我
 开发这个脚本是为了加快我自己的工作，我把它放在这里是希望有更多的人愿意尝试使用它。  
@@ -38,7 +38,7 @@ Install pymol by [conda](https://pymol.org/conda/) and activate the pymol enviro
 &ensp;&ensp;**prefix** means the name of your pdb file prefix, i.e., conf.  
 &ensp;&ensp;**ppns** means the cpus you want to use to align.  
 # Results
-The final structure will be stored in the folder "**./align**" with the name of "{prefix}x_align.pdb  
+The final structure will be stored in the folder "**./align**" with the name of "**{prefix}x_align.pdb**"  
 The RMSD will be stored in **results.txt** when align finished.  
 # Contact me
 This script was developed to speed up my own work, and I'm putting it here in the hope that more people will want to try using it.  
