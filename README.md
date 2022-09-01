@@ -12,8 +12,8 @@ Install pymol by [conda](https://pymol.org/conda/) and activate the pymol enviro
 &ensp;&ensp;**prefix** means the name of your pdb file prefix.  
 &ensp;&ensp;**ppns** means the cpus you want to use to align.  
 # Results
-The final structure will be store in the folder **./align**" with the name of "{prefix}x_align.pdb  
-The rmsd will be store in **results.txt** when align finished.  
+The final structure will be stored in the folder **./align**" with the name of "{prefix}x_align.pdb  
+The rmsd will be stored in **results.txt** when align finished.  
 # Contact me
 This script was developed to speed up my own work, and I'm putting it here in the hope that more people will want to try using it.  
 Feel free to write me an email (zhouyq@shanghaitech.edu.cn) if you have any question, but I don't guarantee that I'll solve your problem.
