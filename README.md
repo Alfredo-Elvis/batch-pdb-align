@@ -11,3 +11,5 @@ align protein pdb structures use pymol.
 &ensp;&ensp;**ppns** means the cpus you want to use to align.  
 The final structure will be store in the folder **./align**" with the name of "{prefix}x_align.pdb  
 The rmsd will be store in **results.txt** when align finished.  
+This script was developed to speed up my own work, and I'm putting it here in the hope that more people will want to try using it.  
+Feel free to write me an email (zhouyq@shanghaitech.edu.cn) if you have any question, but I don't guarantee that I'll solve your problem.
